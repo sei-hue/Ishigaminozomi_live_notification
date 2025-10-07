@@ -1,3 +1,3 @@
 @echo off
 cd /d "%~dp0"
-python annouce_ishigami.py
+python run_once.py
